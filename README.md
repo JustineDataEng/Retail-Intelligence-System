@@ -25,4 +25,4 @@ In a competitive retail market, understanding customer behavior is the differenc
 ---
 
 ## 📧 Commercial Licensing & Contact
-The full **Enterprise Version** includes predictive modeling (SARIMAX/Random Forest) and an automated dashboard. For commercial licensing or custom integration, contact: **[ JustineMcAdzormado@outlook.com ]**
+The full **Enterprise Version** includes predictive modeling and an automated dashboard. For commercial licensing or custom integration, contact: **[ JustineMcAdzormado@outlook.com ]**
