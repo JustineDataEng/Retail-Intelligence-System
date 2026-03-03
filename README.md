@@ -1,4 +1,4 @@
-# 🛒 Retail Intelligence & Customer Lifecycle Engine
+# 🛒 Customer Win-Back Engine
 **A High-Performance Data Engineering Pipeline for E-commerce Optimization.**
 
 ---
